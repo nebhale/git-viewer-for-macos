@@ -10,6 +10,14 @@
 		241EE4201D9DC5F900667650 /* SubmoduleIgnore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241EE41E1D9DC5F900667650 /* SubmoduleIgnore.swift */; };
 		241EE4211D9DC5F900667650 /* SubmoduleRecurse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241EE41F1D9DC5F900667650 /* SubmoduleRecurse.swift */; };
 		241EE4241D9DE83900667650 /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241EE4231D9DE83900667650 /* Repository.swift */; };
+		241EE4261D9E8FC300667650 /* libgit2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 241EE4251D9E8FC300667650 /* libgit2.a */; };
+		241EE4281D9E902600667650 /* libiconv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 241EE4271D9E902600667650 /* libiconv.tbd */; };
+		241EE42A1D9E903400667650 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 241EE4291D9E903400667650 /* libz.tbd */; };
+		241EE42C1D9E905500667650 /* libcurl.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 241EE42B1D9E905500667650 /* libcurl.tbd */; };
+		241EE4311D9E991500667650 /* GitError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241EE4301D9E991500667650 /* GitError.swift */; };
+		241EE4351D9EA01600667650 /* SwiftGit2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241EE4341D9EA01600667650 /* SwiftGit2.swift */; };
+		241EE4371D9EB7CB00667650 /* StatusCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241EE4361D9EB7CB00667650 /* StatusCode.swift */; };
+		24515D061D9ED48B00F3B5FC /* IntValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24515D051D9ED48B00F3B5FC /* IntValue.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +27,14 @@
 		241EE41E1D9DC5F900667650 /* SubmoduleIgnore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubmoduleIgnore.swift; sourceTree = "<group>"; };
 		241EE41F1D9DC5F900667650 /* SubmoduleRecurse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubmoduleRecurse.swift; sourceTree = "<group>"; };
 		241EE4231D9DE83900667650 /* Repository.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
+		241EE4251D9E8FC300667650 /* libgit2.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libgit2.a; path = "../../../../Library/Developer/Xcode/DerivedData/git-viewer-for-macos-hgmxfhzezinyxngtgstohjmxgiyf/Build/Products/Debug/libgit2.a"; sourceTree = "<group>"; };
+		241EE4271D9E902600667650 /* libiconv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.tbd; path = usr/lib/libiconv.tbd; sourceTree = SDKROOT; };
+		241EE4291D9E903400667650 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		241EE42B1D9E905500667650 /* libcurl.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libcurl.tbd; path = usr/lib/libcurl.tbd; sourceTree = SDKROOT; };
+		241EE4301D9E991500667650 /* GitError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GitError.swift; sourceTree = "<group>"; };
+		241EE4341D9EA01600667650 /* SwiftGit2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftGit2.swift; sourceTree = "<group>"; };
+		241EE4361D9EB7CB00667650 /* StatusCode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatusCode.swift; sourceTree = "<group>"; };
+		24515D051D9ED48B00F3B5FC /* IntValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntValue.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +42,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				241EE42C1D9E905500667650 /* libcurl.tbd in Frameworks */,
+				241EE42A1D9E903400667650 /* libz.tbd in Frameworks */,
+				241EE4281D9E902600667650 /* libiconv.tbd in Frameworks */,
+				241EE4261D9E8FC300667650 /* libgit2.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,6 +73,10 @@
 		241EE4121D9DBA0200667650 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				241EE42B1D9E905500667650 /* libcurl.tbd */,
+				241EE4291D9E903400667650 /* libz.tbd */,
+				241EE4271D9E902600667650 /* libiconv.tbd */,
+				241EE4251D9E8FC300667650 /* libgit2.a */,
 				241EE4131D9DBA0200667650 /* libgit2.a */,
 			);
 			name = Frameworks;
@@ -61,8 +85,12 @@
 		241EE4151D9DBDDF00667650 /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				241EE42D1D9E946600667650 /* Error */,
 				241EE4221D9DE80B00667650 /* Repository */,
 				241EE41D1D9DC5F900667650 /* Submodule */,
+				24515D051D9ED48B00F3B5FC /* IntValue.swift */,
+				241EE4361D9EB7CB00667650 /* StatusCode.swift */,
+				241EE4341D9EA01600667650 /* SwiftGit2.swift */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -82,6 +110,14 @@
 				241EE4231D9DE83900667650 /* Repository.swift */,
 			);
 			path = Repository;
+			sourceTree = "<group>";
+		};
+		241EE42D1D9E946600667650 /* Error */ = {
+			isa = PBXGroup;
+			children = (
+				241EE4301D9E991500667650 /* GitError.swift */,
+			);
+			path = Error;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,9 +199,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				241EE4311D9E991500667650 /* GitError.swift in Sources */,
+				24515D061D9ED48B00F3B5FC /* IntValue.swift in Sources */,
 				241EE4211D9DC5F900667650 /* SubmoduleRecurse.swift in Sources */,
+				241EE4371D9EB7CB00667650 /* StatusCode.swift in Sources */,
 				241EE4201D9DC5F900667650 /* SubmoduleIgnore.swift in Sources */,
 				241EE4241D9DE83900667650 /* Repository.swift in Sources */,
+				241EE4351D9EA01600667650 /* SwiftGit2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -332,6 +372,7 @@
 				241EE40F1D9DB89A00667650 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

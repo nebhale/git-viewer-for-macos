@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "999D5B0068827B1422BE05A619EC8D8F5B32C81D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "999D5B0068827B1422BE05A619EC8D8F5B32C81D" : 9223372036854775807,
+    "70783EE7218D87FCBAABD7787F6E3A25EFFAFB2F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F9CD2CEE-E5DF-44FD-851A-AB1810EFF1A1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "999D5B0068827B1422BE05A619EC8D8F5B32C81D" : "git-viewer-for-macos\/",
+    "70783EE7218D87FCBAABD7787F6E3A25EFFAFB2F" : "git-viewer-for-macos\/vendor\/libgit2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "git-viewer-for-macos",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "git-viewer-for-macos.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/libgit2\/libgit2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "70783EE7218D87FCBAABD7787F6E3A25EFFAFB2F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nebhale\/git-viewer-for-macos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "999D5B0068827B1422BE05A619EC8D8F5B32C81D"
+    }
+  ]
+}
