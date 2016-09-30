@@ -1,0 +1,715 @@
+The system is: Darwin - 16.1.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+=== BUILD TARGET CompilerIdC OF PROJECT CompilerIdC WITH THE DEFAULT CONFIGURATION (Debug) ===
+
+Check dependencies
+
+Write auxiliary files
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+chmod 0755 /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap
+
+CompileC CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o CMakeCCompilerId.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -fvisibility=hidden -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CMakeCCompilerId.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o
+
+Ld CompilerIdC normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_lto.o -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC
+
+PhaseScriptExecution Run\ Script CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC
+    /bin/sh -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC"
+
+The C compiler identification is AppleClang, found in "/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_f6582" "-configuration" "Debug"
+=== BUILD TARGET cmTC_f6582 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/Objects-normal/x86_64/cmTC_f6582.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/Objects-normal/x86_64/testCCompiler.o testCCompiler.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/Objects-normal/x86_64/testCCompiler.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/Objects-normal/x86_64/testCCompiler.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/testCCompiler.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/Objects-normal/x86_64/testCCompiler.o
+
+Ld Debug/cmTC_f6582 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/Objects-normal/x86_64/cmTC_f6582.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/Objects-normal/x86_64/cmTC_f6582_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f6582.build/Objects-normal/x86_64/cmTC_f6582_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_f6582
+
+** BUILD SUCCEEDED **
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_fcd73" "-configuration" "Debug"
+=== BUILD TARGET cmTC_fcd73 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/CMakeCCompilerABI.o /usr/local/Cellar/cmake/3.6.2/share/cmake/Modules/CMakeCCompilerABI.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/CMakeCCompilerABI.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/CMakeCCompilerABI.dia -c /usr/local/Cellar/cmake/3.6.2/share/cmake/Modules/CMakeCCompilerABI.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/CMakeCCompilerABI.o
+
+Ld Debug/cmTC_fcd73 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_lto.o -Xlinker -no_deduplicate -v -Wl,-v -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_fcd73
+Apple LLVM version 8.0.0 (clang-800.0.38)
+Target: x86_64-apple-darwin16.1.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.12.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_fcd73 -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73.LinkFileList -object_path_lto /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/lib/darwin/libclang_rt.osx.a -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug
+@(#)PROGRAM:ld  PROJECT:ld64-274.1
+configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em (tvOS)
+Library search paths:
+	/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/lib
+Framework search paths:
+	/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/System/Library/Frameworks/
+
+** BUILD SUCCEEDED **
+
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_fcd73" "-configuration" "Debug"]
+  ignore line: [=== BUILD TARGET cmTC_fcd73 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===]
+  ignore line: []
+  ignore line: [Check dependencies]
+  ignore line: []
+  ignore line: [Write auxiliary files]
+  ignore line: [/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64]
+  ignore line: [write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73.LinkFileList]
+  ignore line: []
+  ignore line: [CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/CMakeCCompilerABI.o /usr/local/Cellar/cmake/3.6.2/share/cmake/Modules/CMakeCCompilerABI.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler]
+  ignore line: [    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp]
+  ignore line: [    export LANG=en_US.US-ASCII]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/CMakeCCompilerABI.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/CMakeCCompilerABI.dia -c /usr/local/Cellar/cmake/3.6.2/share/cmake/Modules/CMakeCCompilerABI.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/CMakeCCompilerABI.o]
+  ignore line: []
+  ignore line: [Ld Debug/cmTC_fcd73 normal x86_64]
+  ignore line: [    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp]
+  ignore line: [    export MACOSX_DEPLOYMENT_TARGET=10.12]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_lto.o -Xlinker -no_deduplicate -v -Wl,-v -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_fcd73]
+  ignore line: [Apple LLVM version 8.0.0 (clang-800.0.38)]
+  ignore line: [Target: x86_64-apple-darwin16.1.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  reduced line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.12.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_fcd73 -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73.LinkFileList -object_path_lto /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/lib/darwin/libclang_rt.osx.a -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug]
+            to: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.12.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_fcd73 -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73.LinkFileList -object_path_lto /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/lib/darwin/libclang_rt.osx.a ]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.12.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_fcd73 -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73.LinkFileList -object_path_lto /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/lib/darwin/libclang_rt.osx.a ]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [x86_64] ==> ignore
+    arg [-macosx_version_min] ==> ignore
+    arg [10.12.0] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_fcd73] ==> ignore
+    arg [-filelist] ==> ignore
+    arg [/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73.LinkFileList] ==> ignore
+    arg [-object_path_lto] ==> ignore
+    arg [/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_lto.o] ==> ignore
+    arg [-no_deduplicate] ==> ignore
+    arg [-v] ==> ignore
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-dependency_info] ==> ignore
+    arg [/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_fcd73.build/Objects-normal/x86_64/cmTC_fcd73_dependency_info.dat] ==> ignore
+    arg [-lSystem] ==> lib [System]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/lib/darwin/libclang_rt.osx.a]
+  Library search paths: [;/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/lib]
+  Framework search paths: [;/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  collapse lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/lib/darwin/libclang_rt.osx.a] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.0.0/lib/darwin/libclang_rt.osx.a]
+  collapse library dir [/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug] ==> [/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/lib]
+  collapse framework dir [/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug] ==> [/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse framework dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/System/Library/Frameworks/] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/System/Library/Frameworks]
+  implicit libs: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.0.0/lib/darwin/libclang_rt.osx.a]
+  implicit dirs: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/lib]
+  implicit fwks: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/System/Library/Frameworks]
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_97f9a" "-configuration" "Debug"
+=== BUILD TARGET cmTC_97f9a OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/Objects-normal/x86_64/cmTC_97f9a.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/Objects-normal/x86_64/feature_tests.o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/feature_tests.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -std=c11 -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/Objects-normal/x86_64/feature_tests.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/Objects-normal/x86_64/feature_tests.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/feature_tests.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/Objects-normal/x86_64/feature_tests.o
+
+Ld Debug/cmTC_97f9a normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/Objects-normal/x86_64/cmTC_97f9a.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/Objects-normal/x86_64/cmTC_97f9a_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_97f9a.build/Objects-normal/x86_64/cmTC_97f9a_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_97f9a
+
+** BUILD SUCCEEDED **
+
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_d1570" "-configuration" "Debug"
+=== BUILD TARGET cmTC_d1570 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/Objects-normal/x86_64/cmTC_d1570.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/Objects-normal/x86_64/feature_tests.o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/feature_tests.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -std=c99 -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/Objects-normal/x86_64/feature_tests.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/Objects-normal/x86_64/feature_tests.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/feature_tests.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/Objects-normal/x86_64/feature_tests.o
+
+Ld Debug/cmTC_d1570 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/Objects-normal/x86_64/cmTC_d1570.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/Objects-normal/x86_64/cmTC_d1570_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_d1570.build/Objects-normal/x86_64/cmTC_d1570_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_d1570
+
+** BUILD SUCCEEDED **
+
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_2f579" "-configuration" "Debug"
+=== BUILD TARGET cmTC_2f579 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/Objects-normal/x86_64/cmTC_2f579.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/Objects-normal/x86_64/feature_tests.o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/feature_tests.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -std=c90 -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/Objects-normal/x86_64/feature_tests.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/Objects-normal/x86_64/feature_tests.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/feature_tests.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/Objects-normal/x86_64/feature_tests.o
+
+Ld Debug/cmTC_2f579 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/Objects-normal/x86_64/cmTC_2f579.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/Objects-normal/x86_64/cmTC_2f579_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2f579.build/Objects-normal/x86_64/cmTC_2f579_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_2f579
+
+** BUILD SUCCEEDED **
+
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+Performing C SOURCE FILE Test HAVE_STRUCT_STAT_ST_MTIMESPEC succeeded with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_4167d" "-configuration" "Debug"
+=== BUILD TARGET cmTC_4167d OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/Objects-normal/x86_64/cmTC_4167d.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/Objects-normal/x86_64/src.o src.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -DHAVE_STRUCT_STAT_ST_MTIMESPEC -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/Objects-normal/x86_64/src.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/src.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/Objects-normal/x86_64/src.o
+
+Ld Debug/cmTC_4167d normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/Objects-normal/x86_64/cmTC_4167d.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/Objects-normal/x86_64/cmTC_4167d_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_4167d.build/Objects-normal/x86_64/cmTC_4167d_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_4167d
+
+** BUILD SUCCEEDED **
+
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/stat.h>
+
+int main()
+{
+   (void)sizeof(((struct stat *)0)->st_mtimespec);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_STAT_NSEC succeeded with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_5a601" "-configuration" "Debug"
+=== BUILD TARGET cmTC_5a601 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/Objects-normal/x86_64/cmTC_5a601.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/Objects-normal/x86_64/src.o src.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -DHAVE_STRUCT_STAT_NSEC -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/Objects-normal/x86_64/src.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/src.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/Objects-normal/x86_64/src.o
+
+Ld Debug/cmTC_5a601 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/Objects-normal/x86_64/cmTC_5a601.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/Objects-normal/x86_64/cmTC_5a601_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_5a601.build/Objects-normal/x86_64/cmTC_5a601_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_5a601
+
+** BUILD SUCCEEDED **
+
+
+Source file was:
+
+#include <sys/stat.h>
+
+int main()
+{
+   (void)sizeof(((struct stat *)0)->st_mtimespec.tv_nsec);
+   return 0;
+}
+
+Determining if the function SSLCreateContext exists in the /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/System/Library/Frameworks/Security.framework passed with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_f28cb" "-configuration" "Debug"
+=== BUILD TARGET cmTC_f28cb OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/Objects-normal/x86_64/cmTC_f28cb.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/Objects-normal/x86_64/CheckFunctionExists.o /usr/local/Cellar/cmake/3.6.2/share/cmake/Modules/CheckFunctionExists.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -DCHECK_FUNCTION_EXISTS=SSLCreateContext -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/Objects-normal/x86_64/CheckFunctionExists.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/Objects-normal/x86_64/CheckFunctionExists.dia -c /usr/local/Cellar/cmake/3.6.2/share/cmake/Modules/CheckFunctionExists.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/Objects-normal/x86_64/CheckFunctionExists.o
+
+Ld Debug/cmTC_f28cb normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Security/SecureTransport.h/Debug -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Security/SecureTransport.h -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/Objects-normal/x86_64/cmTC_f28cb.LinkFileList -Xlinker -rpath -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Security/SecureTransport.h -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/Objects-normal/x86_64/cmTC_f28cb_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -framework Security -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f28cb.build/Objects-normal/x86_64/cmTC_f28cb_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_f28cb
+ld: warning: directory not found for option '-L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Security/SecureTransport.h/Debug'
+ld: warning: directory not found for option '-L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Security/SecureTransport.h'
+
+** BUILD SUCCEEDED **
+
+
+
+Performing C SOURCE FILE Test IS_WDOCUMENTATION_SUPPORTED succeeded with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_f5864" "-configuration" "Debug"
+=== BUILD TARGET cmTC_f5864 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/Objects-normal/x86_64/cmTC_f5864.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/Objects-normal/x86_64/src.o src.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -DIS_WDOCUMENTATION_SUPPORTED -Wdocumentation -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/Objects-normal/x86_64/src.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/src.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/Objects-normal/x86_64/src.o
+
+Ld Debug/cmTC_f5864 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/Objects-normal/x86_64/cmTC_f5864.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/Objects-normal/x86_64/cmTC_f5864_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_f5864.build/Objects-normal/x86_64/cmTC_f5864_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_f5864
+
+** BUILD SUCCEEDED **
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test IS_WNO-MISSING-FIELD-INITIALIZERS_SUPPORTED succeeded with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_eb488" "-configuration" "Debug"
+=== BUILD TARGET cmTC_eb488 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/Objects-normal/x86_64/cmTC_eb488.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/Objects-normal/x86_64/src.o src.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -Wdocumentation -DIS_WNO-MISSING-FIELD-INITIALIZERS_SUPPORTED -Wno-missing-field-initializers -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/Objects-normal/x86_64/src.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/src.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/Objects-normal/x86_64/src.o
+In file included from <built-in>:331:
+<command line>:3:15: warning: ISO C99 requires whitespace after the macro name [-Wc99-extensions]
+#define IS_WNO-MISSING-FIELD-INITIALIZERS_SUPPORTED 1
+              ^
+1 warning generated.
+
+Ld Debug/cmTC_eb488 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/Objects-normal/x86_64/cmTC_eb488.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/Objects-normal/x86_64/cmTC_eb488_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_eb488.build/Objects-normal/x86_64/cmTC_eb488_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_eb488
+
+** BUILD SUCCEEDED **
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test IS_WSTRICT-ALIASING=2_SUPPORTED succeeded with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_18351" "-configuration" "Debug"
+=== BUILD TARGET cmTC_18351 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/Objects-normal/x86_64/cmTC_18351.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/Objects-normal/x86_64/src.o src.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -Wdocumentation -Wno-missing-field-initializers -DIS_WSTRICT-ALIASING=2_SUPPORTED -Wstrict-aliasing=2 -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/Objects-normal/x86_64/src.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/src.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/Objects-normal/x86_64/src.o
+In file included from <built-in>:331:
+<command line>:3:19: warning: ISO C99 requires whitespace after the macro name [-Wc99-extensions]
+#define IS_WSTRICT-ALIASING 2_SUPPORTED
+                  ^
+1 warning generated.
+
+Ld Debug/cmTC_18351 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/Objects-normal/x86_64/cmTC_18351.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/Objects-normal/x86_64/cmTC_18351_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_18351.build/Objects-normal/x86_64/cmTC_18351_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_18351
+
+** BUILD SUCCEEDED **
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test IS_WSTRICT-PROTOTYPES_SUPPORTED succeeded with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_db4df" "-configuration" "Debug"
+=== BUILD TARGET cmTC_db4df OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/Objects-normal/x86_64/cmTC_db4df.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/Objects-normal/x86_64/src.o src.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -Wdocumentation -Wno-missing-field-initializers -Wstrict-aliasing=2 -DIS_WSTRICT-PROTOTYPES_SUPPORTED -Wstrict-prototypes -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/Objects-normal/x86_64/src.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/src.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/Objects-normal/x86_64/src.o
+In file included from <built-in>:331:
+<command line>:3:19: warning: ISO C99 requires whitespace after the macro name [-Wc99-extensions]
+#define IS_WSTRICT-PROTOTYPES_SUPPORTED 1
+                  ^
+1 warning generated.
+
+Ld Debug/cmTC_db4df normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/Objects-normal/x86_64/cmTC_db4df.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/Objects-normal/x86_64/cmTC_db4df_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_db4df.build/Objects-normal/x86_64/cmTC_db4df_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_db4df
+
+** BUILD SUCCEEDED **
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test IS_WDECLARATION-AFTER-STATEMENT_SUPPORTED succeeded with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_96eb0" "-configuration" "Debug"
+=== BUILD TARGET cmTC_96eb0 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/Objects-normal/x86_64/cmTC_96eb0.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/Objects-normal/x86_64/src.o src.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -Wdocumentation -Wno-missing-field-initializers -Wstrict-aliasing=2 -Wstrict-prototypes -DIS_WDECLARATION-AFTER-STATEMENT_SUPPORTED -Wdeclaration-after-statement -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/Objects-normal/x86_64/src.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/src.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/Objects-normal/x86_64/src.o
+In file included from <built-in>:331:
+<command line>:3:24: warning: ISO C99 requires whitespace after the macro name [-Wc99-extensions]
+#define IS_WDECLARATION-AFTER-STATEMENT_SUPPORTED 1
+                       ^
+1 warning generated.
+
+Ld Debug/cmTC_96eb0 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/Objects-normal/x86_64/cmTC_96eb0.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/Objects-normal/x86_64/cmTC_96eb0_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_96eb0.build/Objects-normal/x86_64/cmTC_96eb0_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_96eb0
+
+** BUILD SUCCEEDED **
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test IS_WNO-UNUSED-CONST-VARIABLE_SUPPORTED succeeded with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_524b6" "-configuration" "Debug"
+=== BUILD TARGET cmTC_524b6 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/Objects-normal/x86_64/cmTC_524b6.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/Objects-normal/x86_64/src.o src.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -Wdocumentation -Wno-missing-field-initializers -Wstrict-aliasing=2 -Wstrict-prototypes -Wdeclaration-after-statement -DIS_WNO-UNUSED-CONST-VARIABLE_SUPPORTED -Wno-unused-const-variable -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/Objects-normal/x86_64/src.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/src.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/Objects-normal/x86_64/src.o
+In file included from <built-in>:331:
+<command line>:3:15: warning: ISO C99 requires whitespace after the macro name [-Wc99-extensions]
+#define IS_WNO-UNUSED-CONST-VARIABLE_SUPPORTED 1
+              ^
+1 warning generated.
+
+Ld Debug/cmTC_524b6 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/Objects-normal/x86_64/cmTC_524b6.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/Objects-normal/x86_64/cmTC_524b6_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_524b6.build/Objects-normal/x86_64/cmTC_524b6_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_524b6
+
+** BUILD SUCCEEDED **
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test IS_WNO-UNUSED-FUNCTION_SUPPORTED succeeded with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_e4f41" "-configuration" "Debug"
+=== BUILD TARGET cmTC_e4f41 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/Objects-normal/x86_64/cmTC_e4f41.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/Objects-normal/x86_64/src.o src.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -Wdocumentation -Wno-missing-field-initializers -Wstrict-aliasing=2 -Wstrict-prototypes -Wdeclaration-after-statement -Wno-unused-const-variable -DIS_WNO-UNUSED-FUNCTION_SUPPORTED -Wno-unused-function -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/Objects-normal/x86_64/src.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/src.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/Objects-normal/x86_64/src.o
+In file included from <built-in>:331:
+<command line>:3:15: warning: ISO C99 requires whitespace after the macro name [-Wc99-extensions]
+#define IS_WNO-UNUSED-FUNCTION_SUPPORTED 1
+              ^
+1 warning generated.
+
+Ld Debug/cmTC_e4f41 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/Objects-normal/x86_64/cmTC_e4f41.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/Objects-normal/x86_64/cmTC_e4f41_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_e4f41.build/Objects-normal/x86_64/cmTC_e4f41_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_e4f41
+
+** BUILD SUCCEEDED **
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test IS_WNO-DEPRECATED-DECLARATIONS_SUPPORTED succeeded with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_57b85" "-configuration" "Debug"
+=== BUILD TARGET cmTC_57b85 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/Objects-normal/x86_64/cmTC_57b85.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/Objects-normal/x86_64/src.o src.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -Wdocumentation -Wno-missing-field-initializers -Wstrict-aliasing=2 -Wstrict-prototypes -Wdeclaration-after-statement -Wno-unused-const-variable -Wno-unused-function -DIS_WNO-DEPRECATED-DECLARATIONS_SUPPORTED -Wno-deprecated-declarations -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/Objects-normal/x86_64/src.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/Objects-normal/x86_64/src.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/src.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/Objects-normal/x86_64/src.o
+In file included from <built-in>:331:
+<command line>:3:15: warning: ISO C99 requires whitespace after the macro name [-Wc99-extensions]
+#define IS_WNO-DEPRECATED-DECLARATIONS_SUPPORTED 1
+              ^
+1 warning generated.
+
+Ld Debug/cmTC_57b85 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/Objects-normal/x86_64/cmTC_57b85.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/Objects-normal/x86_64/cmTC_57b85_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_57b85.build/Objects-normal/x86_64/cmTC_57b85_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_57b85
+
+** BUILD SUCCEEDED **
+
+
+Source file was:
+int main(void) { return 0; }
+Determining if the function qsort_r exists passed with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_965a8" "-configuration" "Debug"
+=== BUILD TARGET cmTC_965a8 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/Objects-normal/x86_64/cmTC_965a8.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/Objects-normal/x86_64/CheckFunctionExists.o /usr/local/Cellar/cmake/3.6.2/share/cmake/Modules/CheckFunctionExists.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -Wdocumentation -Wno-missing-field-initializers -Wstrict-aliasing=2 -Wstrict-prototypes -Wdeclaration-after-statement -Wno-unused-const-variable -Wno-unused-function -Wno-deprecated-declarations -DCHECK_FUNCTION_EXISTS=qsort_r -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/Objects-normal/x86_64/CheckFunctionExists.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/Objects-normal/x86_64/CheckFunctionExists.dia -c /usr/local/Cellar/cmake/3.6.2/share/cmake/Modules/CheckFunctionExists.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/Objects-normal/x86_64/CheckFunctionExists.o
+
+Ld Debug/cmTC_965a8 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/Objects-normal/x86_64/cmTC_965a8.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/Objects-normal/x86_64/cmTC_965a8_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_965a8.build/Objects-normal/x86_64/cmTC_965a8_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_965a8
+
+** BUILD SUCCEEDED **
+
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_bfdb3" "-configuration" "Debug"
+=== BUILD TARGET cmTC_bfdb3 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/Objects-normal/x86_64/cmTC_bfdb3.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/Objects-normal/x86_64/CheckIncludeFile.o CheckIncludeFile.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -Wdocumentation -Wno-missing-field-initializers -Wstrict-aliasing=2 -Wstrict-prototypes -Wdeclaration-after-statement -Wno-unused-const-variable -Wno-unused-function -Wno-deprecated-declarations -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/Objects-normal/x86_64/CheckIncludeFile.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/Objects-normal/x86_64/CheckIncludeFile.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CheckIncludeFile.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/Objects-normal/x86_64/CheckIncludeFile.o
+
+Ld Debug/cmTC_bfdb3 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/Objects-normal/x86_64/cmTC_bfdb3.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/Objects-normal/x86_64/cmTC_bfdb3_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bfdb3.build/Objects-normal/x86_64/cmTC_bfdb3_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_bfdb3
+
+** BUILD SUCCEEDED **
+
+
+
+Determining if the pthread_create exist passed with the following output:
+Change Dir: /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_2e7e4" "-configuration" "Debug"
+=== BUILD TARGET cmTC_2e7e4 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/Objects-normal/x86_64
+write-file /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/Objects-normal/x86_64/cmTC_2e7e4.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/Objects-normal/x86_64/CheckSymbolExists.o CheckSymbolExists.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.12 -g -Wno-sign-conversion -Wno-infinite-recursion -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/include -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/DerivedSources/x86_64 -I/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -D_GNU_SOURCE -Wall -Wextra -Wdocumentation -Wno-missing-field-initializers -Wstrict-aliasing=2 -Wstrict-prototypes -Wdeclaration-after-statement -Wno-unused-const-variable -Wno-unused-function -Wno-deprecated-declarations -MMD -MT dependencies -MF /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/Objects-normal/x86_64/CheckSymbolExists.d --serialize-diagnostics /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/Objects-normal/x86_64/CheckSymbolExists.dia -c /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CheckSymbolExists.c -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/Objects-normal/x86_64/CheckSymbolExists.o
+
+Ld Debug/cmTC_2e7e4 normal x86_64
+    cd /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.12
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -L/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -F/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug -filelist /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/Objects-normal/x86_64/cmTC_2e7e4.LinkFileList -mmacosx-version-min=10.12 -Xlinker -object_path_lto -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/Objects-normal/x86_64/cmTC_2e7e4_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2e7e4.build/Objects-normal/x86_64/cmTC_2e7e4_dependency_info.dat -o /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/Debug/cmTC_2e7e4
+
+** BUILD SUCCEEDED **
+
+
+File /Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

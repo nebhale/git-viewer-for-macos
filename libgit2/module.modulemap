@@ -1,0 +1,4 @@
+module Git2 [system][extern_c] {
+    header "../vendor/libgit2/include/git2.h"
+    export *
+}

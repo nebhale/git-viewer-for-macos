@@ -1,0 +1,6 @@
+/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/RUN_TESTS.dir
+/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/libgit2_clar.dir
+/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/install.dir
+/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/git2.dir
+/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/ALL_BUILD.dir
+/Users/bhale/dev/sources/git-viewer-for-macos/libgit2/CMakeFiles/ZERO_CHECK.dir
